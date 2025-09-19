@@ -102,10 +102,10 @@ Al principio, todo mi código estaba en un solo archivo, lo que hacía difícil 
 - Creación de modelos de datos para cada entidad (Ecosistema, Hábitat, Animal)
 - Implementación de widgets reutilizables para elementos comunes
 
----
+-----
 ### 📸 Capturas de Pantalla
 
-#### 🌍 Nivel 1 – Ecosistemas
+## 🌍 Nivel 1 – Ecosistemas
 
 
 Vista general con ecosistema: Selva
@@ -120,7 +120,9 @@ Vista general con ecosistema: Sabana y Bosque
 
 ![Vista general con ecosistema: Sabana y Bosque](assets/screenshots/Ecosistema3.jpg)
 
-#### 🏞️ Nivel 2 – Hábitat
+--------
+
+## 🏞️ Nivel 2 – Hábitat
 
 **Ecosistema Selva**
 Hábitats disponibles: Río selvático, Copa de los árboles, Suelo del bosque
@@ -152,7 +154,9 @@ Hábitats disponibles: Bosque de Coníferas, Bosque caducifolio
 ![Habitat](assets/screenshots/bosque1.jpg)
 
 
-#### 🐆 Nivel 3 – Animal
+--------
+
+## 🐆 Nivel 3 – Animal
 
 **Selva - Río**
 
