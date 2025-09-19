@@ -106,10 +106,163 @@ Al principio, todo mi código estaba en un solo archivo, lo que hacía difícil 
 ### 📸 Capturas de Pantalla
 
 #### 🌍 Nivel 1 – Ecosistemas
-![Ecosistemas](assets/images/Ecosistema1.jpg)
-![Ecosistemas](assets/images/Ecosistema2.jpg)
-![Ecosistemas](assets/images/Ecosistema3.jpg)
+
+
+Vista general con ecosistema: Selva
+
+![Vista general con ecosistema: Selva](assets/screenshots/Ecosistema1.jpg)
+
+Vista general con ecosistema: Desierto y Océano
+
+![Vista general con ecosistema: Desierto y Océano](assets/screenshots/Ecosistema2.jpg)
+
+Vista general con ecosistema: Sabana y Bosque
+
+![Vista general con ecosistema: Sabana y Bosque](assets/screenshots/Ecosistema3.jpg)
+
 #### 🏞️ Nivel 2 – Hábitat
+
+**Ecosistema Selva**
+Hábitats disponibles: Río selvático, Copa de los árboles, Suelo del bosque
+
+![Habitat](assets/screenshots/selva1.jpg)
+
+
+**Ecosistema Desierto**
+Hábitats disponibles: Dunas de arena, Oasis, Montañas rocosas
+
+![Habitat](assets/screenshots/Desierto1.jpg)
+
+
+**Ecosistema Océano**
+Hábitats disponibles: Superficie, Arrecife de coral, Profundidades marinas
+
+![Habitat](assets/screenshots/oceano1.jpg)
+
+
+**Ecosistema Sabana**
+Hábitats disponibles: Praderas, Aguadas
+
+![Habitat](assets/screenshots/sabana1.jpg)
+
+
+**Bosque Templado**
+Hábitats disponibles: Bosque de Coníferas, Bosque caducifolio
+
+![Habitat](assets/screenshots/bosque1.jpg)
+
+
 #### 🐆 Nivel 3 – Animal
+
+**Selva - Río**
+
+![Habitat](assets/screenshots/rio_selva.jpg)
+
+![Habitat](assets/screenshots/animal_rio_selva.jpg)
+
+![Habitat](assets/screenshots/animal_rio_selva_jaguar.jpg)
+
+
+
+**Selva - Copa**
+
+![Habitat](assets/screenshots/copa.jpg)
+
+![Habitat](assets/screenshots/animal_copa.jpg)
+
+
+**Selva - Suelo**
+
+![Habitat](assets/screenshots/suelo.jpg)
+
+![Habitat](assets/screenshots/animal_suelo.jpg)
+
+
+**Desierto - Dunas**
+
+![Habitat](assets/screenshots/dunas.jpg)
+
+![Habitat](assets/screenshots/dunas_animal.jpg)
+
+
+**Desierto - Oasis**
+
+![Habitat](assets/screenshots/oasis.jpg)
+
+![Habitat](assets/screenshots/oasis_animal.jpg)
+
+![Habitat](assets/screenshots/oasis_animal_dro.jpg)
+
+
+
+**Desierto - Montañas**
+
+![Habitat](assets/screenshots/monta.jpg)
+
+![Habitat](assets/screenshots/monta_animal.jpg)
+
+
+
+**Océano - Superficie**
+
+![Habitat](assets/screenshots/super.jpg)
+
+![Habitat](assets/screenshots/super_animal.jpg)
+
+
+**Océano - Arrecife**
+
+![Habitat](assets/screenshots/arre.jpg)
+
+![Habitat](assets/screenshots/arre_animal.jpg)
+
+
+
+**Océano - Profundidades**
+
+![Habitat](assets/screenshots/profu.jpg)
+
+![Habitat](assets/screenshots/profu_animal.jpg)
+
+![Habitat](assets/screenshots/profu_animal_pez.jpg)
+
+
+
+**Sabana - pradera**
+
+![Habitat](assets/screenshots/pradera.jpg)
+
+![Habitat](assets/screenshots/pradera_animal.jpg)
+
+![Habitat](assets/screenshots/pradera_animal_leon.jpg)
+
+
+
+**Sabana - Aguadas**
+
+![Habitat](assets/screenshots/aguadas.jpg)
+
+![Habitat](assets/screenshots/aguadas_animal .jpg)
+
+
+**Bosque - Coníferas**
+
+![Habitat](assets/screenshots/coni.jpg)
+
+![Habitat](assets/screenshots/coni_animal.jpg)
+
+
+**Bosque - caducifolio**
+
+![Habitat](assets/screenshots/cadu.jpg)
+
+![Habitat](assets/screenshots/cadu_animal.jpg)
+
+![Habitat](assets/screenshots/cadu_animal_ardi.jpg)
+
+
+
+
+
 
  
