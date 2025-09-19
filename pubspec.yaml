@@ -66,6 +66,7 @@ flutter:
     - assets/eco_oceano/
     - assets/eco_sabana/
     - assets/eco_bosque_templado/
+    - assets/screenshots/
 
 
   #   - images/a_dot_burr.jpeg
