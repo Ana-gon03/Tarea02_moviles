@@ -242,7 +242,7 @@ Hábitats disponibles: Bosque de Coníferas, Bosque caducifolio
 
 ![Habitat](assets/screenshots/aguadas.jpg)
 
-![Habitat](assets/screenshots/aguadas_animal .jpg)
+![Habitat](assets/screenshots/aguadas_animal.jpg)
 
 
 **Bosque - Coníferas**
