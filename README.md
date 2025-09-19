@@ -106,7 +106,9 @@ Al principio, todo mi código estaba en un solo archivo, lo que hacía difícil 
 ### 📸 Capturas de Pantalla
 
 #### 🌍 Nivel 1 – Ecosistemas
-![Ecosistemas](screenshots/ecosistemas.png)
+![Ecosistemas](assets/images/Ecosistema1.jpg)
+![Ecosistemas](assets/images/Ecosistema2.jpg)
+![Ecosistemas](assets/images/Ecosistema3.jpg)
 #### 🏞️ Nivel 2 – Hábitat
 #### 🐆 Nivel 3 – Animal
 
