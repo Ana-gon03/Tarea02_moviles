@@ -110,15 +110,21 @@ Al principio, todo mi código estaba en un solo archivo, lo que hacía difícil 
 
 Vista general con ecosistema: Selva
 
-![Vista general con ecosistema: Selva](assets/screenshots/Ecosistema1.jpg)
+<p align="center">
+  <img src="assets/screenshots/Ecosistema1.jpg" alt="Vista general con ecosistema: Selva" width="500"/>
+</p>
 
 Vista general con ecosistema: Desierto y Océano
 
-![Vista general con ecosistema: Desierto y Océano](assets/screenshots/Ecosistema2.jpg)
+<p align="center">
+  <img src="assets/screenshots/Ecosistema2.jpg" alt="Vista general con ecosistema: Desierto y Océano" width="500"/>
+</p>
 
 Vista general con ecosistema: Sabana y Bosque
 
-![Vista general con ecosistema: Sabana y Bosque](assets/screenshots/Ecosistema3.jpg)
+<p align="center">
+  <img src="assets/screenshots/Ecosistema3.jpg" alt="Vista general con ecosistema: Sabana y Bosque" width="500"/>
+</p>
 
 --------
 
@@ -127,31 +133,41 @@ Vista general con ecosistema: Sabana y Bosque
 **Ecosistema Selva**
 Hábitats disponibles: Río selvático, Copa de los árboles, Suelo del bosque
 
-![Habitat](assets/screenshots/selva1.jpg)
+<p align="center">
+  <img src="assets/screenshots/selva1.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Ecosistema Desierto**
 Hábitats disponibles: Dunas de arena, Oasis, Montañas rocosas
 
-![Habitat](assets/screenshots/Desierto1.jpg)
+<p align="center">
+  <img src="assets/screenshots/Desierto1.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Ecosistema Océano**
 Hábitats disponibles: Superficie, Arrecife de coral, Profundidades marinas
 
-![Habitat](assets/screenshots/oceano1.jpg)
+<p align="center">
+  <img src="assets/screenshots/oceano1.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Ecosistema Sabana**
 Hábitats disponibles: Praderas, Aguadas
 
-![Habitat](assets/screenshots/sabana1.jpg)
+<p align="center">
+  <img src="assets/screenshots/sabana1.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Bosque Templado**
 Hábitats disponibles: Bosque de Coníferas, Bosque caducifolio
 
-![Habitat](assets/screenshots/bosque1.jpg)
+<p align="center">
+  <img src="assets/screenshots/bosque1.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 --------
@@ -160,110 +176,184 @@ Hábitats disponibles: Bosque de Coníferas, Bosque caducifolio
 
 **Selva - Río**
 
-![Habitat](assets/screenshots/rio_selva.jpg)
+<p align="center">
+  <img src="assets/screenshots/rio_selva.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/animal_rio_selva.jpg)
+<p align="center">
+  <img src="assets/screenshots/animal_rio_selva.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/animal_rio_selva_jaguar.jpg)
+<p align="center">
+  <img src="assets/screenshots/animal_rio_selva_jaguar.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 
 **Selva - Copa**
 
-![Habitat](assets/screenshots/copa.jpg)
+<p align="center">
+  <img src="assets/screenshots/copa.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/animal_copa.jpg)
+<p align="center">
+  <img src="assets/screenshots/animal_copa.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Selva - Suelo**
 
-![Habitat](assets/screenshots/suelo.jpg)
+<p align="center">
+  <img src="assets/screenshots/dunas.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/animal_suelo.jpg)
+<p align="center">
+  <img src="assets/screenshots/dunas_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Desierto - Dunas**
 
-![Habitat](assets/screenshots/dunas.jpg)
+<p align="center">
+  <img src="assets/screenshots/dunas.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/dunas_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/dunas_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Desierto - Oasis**
 
-![Habitat](assets/screenshots/oasis.jpg)
+<p align="center">
+  <img src="assets/screenshots/oasis.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/oasis_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/oasis_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/oasis_animal_dro.jpg)
+<p align="center">
+  <img src="assets/screenshots/oasis_animal_dro.jpg" alt="Habitat" width="500"/>
+</p>
+
 
 
 
 **Desierto - Montañas**
 
-![Habitat](assets/screenshots/monta.jpg)
+<p align="center">
+  <img src="assets/screenshots/monta.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/monta_animal.jpg)
-
+<p align="center">
+  <img src="assets/screenshots/monta_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Océano - Superficie**
 
-![Habitat](assets/screenshots/super.jpg)
+<p align="center">
+  <img src="assets/screenshots/super.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/super_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/super_animal.jpg" alt="Habitat" width="500"/>
+</p>
+
 
 
 **Océano - Arrecife**
 
-![Habitat](assets/screenshots/arre.jpg)
+<p align="center">
+  <img src="assets/screenshots/arre.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/arre_animal.jpg)
-
+<p align="center">
+  <img src="assets/screenshots/arre_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Océano - Profundidades**
 
-![Habitat](assets/screenshots/profu.jpg)
+<p align="center">
+  <img src="assets/screenshots/profu.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/profu_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/profu_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/profu_animal_pez.jpg)
+<p align="center">
+  <img src="assets/screenshots/profu_animal_pez.jpg" alt="Habitat" width="500"/>
+</p>
+
 
 
 
 **Sabana - pradera**
 
-![Habitat](assets/screenshots/pradera.jpg)
+<p align="center">
+  <img src="assets/screenshots/pradera.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/pradera_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/pradera_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/pradera_animal_leon.jpg)
+<p align="center">
+  <img src="assets/screenshots/pradera_animal_leon.jpg" alt="Habitat" width="500"/>
+</p>
+
 
 
 
 **Sabana - Aguadas**
 
-![Habitat](assets/screenshots/aguadas.jpg)
+<p align="center">
+  <img src="assets/screenshots/aguadas.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/aguadas_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/aguadas_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
 
 **Bosque - Coníferas**
 
-![Habitat](assets/screenshots/coni.jpg)
+<p align="center">
+  <img src="assets/screenshots/coni.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/coni_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/coni_animal.jpg" alt="Habitat" width="500"/>
+</p>
+
 
 
 **Bosque - caducifolio**
 
-![Habitat](assets/screenshots/cadu.jpg)
+<p align="center">
+  <img src="assets/screenshots/cadu.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/cadu_animal.jpg)
+<p align="center">
+  <img src="assets/screenshots/cadu_animal.jpg" alt="Habitat" width="500"/>
+</p>
 
-![Habitat](assets/screenshots/cadu_animal_ardi.jpg)
+<p align="center">
+  <img src="assets/screenshots/cadu_animal_ardi.jpg" alt="Habitat" width="500"/>
+</p>
 
+## Video
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/916031f6-853b-4a9e-9697-f338fae41a47
 
 
 
