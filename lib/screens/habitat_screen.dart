@@ -322,13 +322,8 @@ class HabitatScreen extends StatelessWidget {
                       padding: const EdgeInsets.symmetric(vertical: 16.0),
                     ),
                     onPressed: () {
-                      Navigator.pop(context);
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (context) => AnimalScreen(animals: habitat.animals),
-                        ),
-                      );
+                      Navigator.pop(context); // Cierra el modal
+                      _navigateToAnimalsWithScaleRotate(context, habitat); // Nueva transición
                     },
                     child: Text(
                       'Explorar Animales',
@@ -342,6 +337,43 @@ class HabitatScreen extends StatelessWidget {
           ),
         );
       },
+    );
+  }
+  void _navigateToAnimalsWithScaleRotate(BuildContext context, Habitat habitat) {
+    Navigator.push(
+      context,
+      PageRouteBuilder(
+        transitionDuration: const Duration(milliseconds: 700),
+        pageBuilder: (context, animation, secondaryAnimation) =>
+            AnimalScreen(animals: habitat.animals),
+        transitionsBuilder: (context, animation, secondaryAnimation, child) {
+          // Animación de escala
+          var scaleAnimation = Tween(begin: 0.8, end: 1.0).animate(
+            CurvedAnimation(parent: animation, curve: Curves.easeOutBack),
+          );
+
+          // Animación de rotación sutil
+          var rotationAnimation = Tween(begin: 0.1, end: 0.0).animate(
+            CurvedAnimation(parent: animation, curve: Curves.easeOut),
+          );
+
+          // Animación de opacidad
+          var opacityAnimation = Tween(begin: 0.0, end: 1.0).animate(
+            CurvedAnimation(parent: animation, curve: Curves.easeIn),
+          );
+
+          return Transform.rotate(
+            angle: rotationAnimation.value,
+            child: Transform.scale(
+              scale: scaleAnimation.value,
+              child: Opacity(
+                opacity: opacityAnimation.value,
+                child: child,
+              ),
+            ),
+          );
+        },
+      ),
     );
   }
 
